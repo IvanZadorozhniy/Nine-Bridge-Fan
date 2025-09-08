@@ -46,6 +46,6 @@
     }
   ],
   "url": "https://github.com/IvanZadorozhniy/Nine-Bridge-Fan",
-  "manifest": "https://github.com/IvanZadorozhniy/Nine-Bridge-Fan/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/IvanZadorozhniy/Nine-Bridge-Fan/refs/heads/main/module.json",
   "download": "https://github.com/IvanZadorozhniy/Nine-Bridge-Fan/releases/download/v0.0.1/devyatyj-most.zip"
 }
