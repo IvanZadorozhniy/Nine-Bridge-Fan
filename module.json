@@ -1,0 +1,48 @@
+{
+  "id": "devyatyj-most",
+  "title": "Девятый Мост",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "cosmere-rpg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ivan Zadorozhnyi",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "devyatyj-most",
+      "label": "Девятый Мост",
+      "path": "packs/devyatyj-most",
+      "type": "JournalEntry",
+      "system": "cosmere-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "devyatyj-most-priklyuchenie",
+      "label": "Девятый Мост-приключение",
+      "path": "packs/devyatyj-most-priklyuchenie",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cosmere-rpg"
+    }
+  ]
+}
