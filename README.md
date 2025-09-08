@@ -1,2 +1,3 @@
-# Nine-Bridge-Fan
-Module Nine-Bridge for Foundry Vtt using CosmereRPG.
+# Установка
+Для установки используйте ссылку:
+``` https://raw.githubusercontent.com/IvanZadorozhniy/Nine-Bridge-Fan/refs/heads/main/module.json ``` 
